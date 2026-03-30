@@ -5,7 +5,7 @@ import com.google.gson.Gson;
 public class Main {
     public static void main(String[] args) {
         DailyLog myLog = new DailyLog();
-        int dailyGoal = 2500; // This is your budget
+        int dailyGoal = 3500; // Bulk mode
 
         // Add your food entries
         myLog.addEntry("Chicken Breast", 25000);
