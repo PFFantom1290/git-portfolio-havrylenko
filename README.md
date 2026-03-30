@@ -11,3 +11,5 @@ Run: You can run the Main class in IntelliJ.
 
 Build Tool
 I chose Maven because it is easy to manage tools like Gson and JUnit in one file.
+
+Run tests using mvn test
